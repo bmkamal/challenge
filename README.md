@@ -21,5 +21,3 @@ Clone the repo locally and do following steps:
 2- Make the First character of Firstname Capital
 
 3- Write unit test(s) to cover test scenerio(s)
-
-4- Once completed please wait on your seat for the moderator to review your code.
